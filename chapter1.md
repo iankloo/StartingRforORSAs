@@ -1,16 +1,39 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
-attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+title       : Introduction
+description : The basics
+---
 
---- type:VideoExercise lang:r xp:50 skills:1 key:3d74c15d6c
-## Analyze movie ratings
 
-*** =video_link
-//player.vimeo.com/video/154783078
+--- type:NormalExercise lang:r xp:100 skills:1 key:251cf5dd2a
+# Welcome to the R class
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:90654a97e7
+Here is some info about R
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
+```{r}
+
+```
+
+*** =sct
+```{r}
+
+```
+--- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:d33925b823
 ## A really bad movie
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
@@ -54,7 +77,7 @@ msg_success <- "Exactly! There seems to be a very bad action movie in the datase
 test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad)) 
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:de9f699626
+--- type:NormalExercise lang:r xp:100 skills:1 key:7cc43ac59f
 ## More movies
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
