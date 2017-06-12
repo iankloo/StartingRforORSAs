@@ -1,13 +1,23 @@
 ---
 title       : Introduction
 description : The basics
----
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:8147b04064
+## Welcome to the R Course!
+
+This course is meant to guide you through the (very) basics of R.
+
+Because this is a prerequisite for the in-person R course, you will not learn everything about R in this course.  Instead, the goal is to increase your familiarity with R and programming in general.
+
+The goal here is not to add an undue burden to your daily workflow, so there will be ample hints to help you through the exercises.  You will, however, get much more out of the in-person class if you get some of the initial questions/learning out of the way early.
+
+In this pre-course, you will be typing your R code directly into this website so we can check your work.  In reality, you will be typing R code either on your local computer, or on a "cloud" computer (like Amazon Web Services).  We strongly recommend that you work these exercises on your local or cloud instance before copying it over before submitting (instead of writing everything directly into the console on the web page).  This will help you practice in more realistic conditions.
+
+Also, we strongly recommend searching outside of this course for the answers to your questions.  Before asking for a hint, google your problem!  Again, this mirrors real-world conditions more closely.  Remember, google isn't cheating (but using the hints kind of is)!  
 
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:251cf5dd2a
-# Welcome to the R class
-
-Here is some info about R
+## <<<New Exercise>>>
 
 
 *** =instructions
